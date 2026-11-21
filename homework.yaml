@@ -1,0 +1,20 @@
+schema_version: 2
+content_id: c8eee001-ecb0-409e-8c5f-21e8bbb240f7
+slug: hw02
+title: "Homework 2: Build and Ship an AI-Assisted Full-Stack App"
+instructions_path: homework.md
+due_at: "2026-09-14T21:59:00Z"
+initial_state: open
+form:
+  homework_url: true
+  time_spent_lectures: true
+  time_spent_homework: true
+  faq_contribution: true
+  learning_in_public_cap: 7
+questions:
+  - content_id: 79074675-3292-4a52-8524-64e591bfc408
+    id: reflection
+    type: free_form_long
+    answer_type: any
+    prompt: "Describe one practical idea you took from this module."
+    points: 0
